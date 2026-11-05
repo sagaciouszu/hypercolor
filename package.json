@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "core-js": "^3.35.1",
-    "nuxt": "^3.10.0"
+    "nuxt": "^4.6.4"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.6.4",
